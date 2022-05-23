@@ -1,1 +1,2 @@
 *.r linguist-detectable=false
+*.c text=auto
